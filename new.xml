@@ -1,2 +1,7 @@
 <xml>
 	<name> "Viktoria"</name>
+	<surname> "Semenova"</surname>
+	<patronymic> "Alexandrovna"</patronymic>
+	<age> "23"</age>
+	<pets> "7"</pets>
+	<salary> "600"</salary>
